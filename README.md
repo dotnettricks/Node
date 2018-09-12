@@ -14,3 +14,8 @@ Link : https://www.dotnettricks.com/learn/nodejs/getting-started-with-expressjs
 In this post we are going to learn about JSON Web Tokens (JWT), and know how to create a token by using JSON Web Tokens (JWT) on user authentication to secure NodeJS API’s. All we are going to creating a new sample application using Express-generator, then modify the application to create a token using JWT to verify user access for API’s. Let’s start the talk about getting an overview on authentication.
 
 Link : https://www.dotnettricks.com/learn/nodejs/token-based-authentication-using-json-web-token
+
+### Exploring ExpressJS Routing
+In this article we are going to explore routing in ExpressJS. Alright then, let’s get started working with ExpressJS Route. Let's create a sample application using Express-generator. In case you need help, please follow our previous article about Getting started with ExpressJS and Express-generator.
+
+Link : https://www.dotnettricks.com/learn/nodejs/expressjs-routes-routing
