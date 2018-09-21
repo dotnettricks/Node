@@ -19,3 +19,8 @@ Link : https://www.dotnettricks.com/learn/nodejs/token-based-authentication-usin
 In this article we are going to explore routing in ExpressJS. Alright then, let’s get started working with ExpressJS Route. Let's create a sample application using Express-generator. In case you need help, please follow our previous article about Getting started with ExpressJS and Express-generator.
 
 Link : https://www.dotnettricks.com/learn/nodejs/expressjs-routes-routing
+
+### Authentication and Authorization in Node.js
+Previously we have learned how to create JSON Web Token (JWT) by demo login data, passed through request header to verify user by using middleware. Before starting with this post it’s recommended to overview previous post on ” Token-Based Authentication In Node.js Using JWT”.In this article, we are going to learn how to perform user authentication using “Passport” then create JWT token to verify user with access permission on each request. We are going to use MSSQL server for database operations. Previously we have tested the sample application using postman, in this post we are going to configure handlebars as view engine to prepare user interface for user operations.
+
+Link : https://www.dotnettricks.com/learn/nodejs/authentication-authorization-using-passport-js
